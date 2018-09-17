@@ -1,0 +1,163 @@
+2018-09-03 15:49:46,895 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083211_GRUPO_107.xls gravado com sucesso
+2018-09-03 15:49:47,326 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083221_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:21,431 - log - INFO - LerArquivosXLS - <module> - Arquivo 03082018091636_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:24,520 - log - INFO - LerArquivosXLS - <module> - Arquivo 03082018091649_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:26,824 - log - INFO - LerArquivosXLS - <module> - Arquivo 06072018084538_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:29,404 - log - INFO - LerArquivosXLS - <module> - Arquivo 06072018084600_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:31,557 - log - INFO - LerArquivosXLS - <module> - Arquivo 10082018085655_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:34,941 - log - INFO - LerArquivosXLS - <module> - Arquivo 10082018085710_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:37,060 - log - INFO - LerArquivosXLS - <module> - Arquivo 13072018085819_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:38,185 - log - INFO - LerArquivosXLS - <module> - Arquivo 13072018085826_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:39,637 - log - INFO - LerArquivosXLS - <module> - Arquivo 20072018135356_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:42,697 - log - INFO - LerArquivosXLS - <module> - Arquivo 20072018135411_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:46,117 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083211_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:47,970 - log - INFO - LerArquivosXLS - <module> - Arquivo 24082018083221_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:49,968 - log - INFO - LerArquivosXLS - <module> - Arquivo 27072018084146_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:24:51,032 - log - INFO - LerArquivosXLS - <module> - Arquivo 27072018084151_GRUPO_435.xls gravado com sucesso
+2018-09-04 14:24:57,080 - log - INFO - LerArquivosXLS - <module> - Arquivo 31082018105229_GRUPO_107.xls gravado com sucesso
+2018-09-04 14:25:01,518 - log - INFO - LerArquivosXLS - <module> - Arquivo 31082018105246_GRUPO_435.xls gravado com sucesso
+2018-09-06 11:58:59,123 - log - INFO - LerArquivosXLS - <module> - Arquivo 05092018075813_GRUPO_700.xls gravado com sucesso
+2018-09-06 11:58:59,896 - log - INFO - LerArquivosXLS - <module> - Arquivo 06092018075642_GRUPO_700.xls gravado com sucesso
+2018-09-04 14:21:53,366 - log - INFO - GerarPlanilha - <module> - Arquivo 01092018195852_PED154747366.htm gravado com sucesso
+2018-09-04 14:21:54,106 - log - INFO - GerarPlanilha - <module> - Arquivo 02082018154743_PED153533115.htm gravado com sucesso
+2018-09-04 14:21:54,772 - log - INFO - GerarPlanilha - <module> - Arquivo 03072018104623_PED152381132.htm gravado com sucesso
+2018-09-04 14:21:55,531 - log - INFO - GerarPlanilha - <module> - Arquivo 03082018112521_PED153588179.htm gravado com sucesso
+2018-09-04 14:21:56,192 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018081927_PED154594833.htm gravado com sucesso
+2018-09-04 14:21:56,849 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018093202_PED152767818.htm gravado com sucesso
+2018-09-04 14:21:57,661 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018124807_PED154734519.htm gravado com sucesso
+2018-09-04 14:21:58,326 - log - INFO - GerarPlanilha - <module> - Arquivo 03092018153205_PED154712294.htm gravado com sucesso
+2018-09-04 14:21:59,070 - log - INFO - GerarPlanilha - <module> - Arquivo 04062018130109_PED151294012.htm gravado com sucesso
+2018-09-04 14:21:59,753 - log - INFO - GerarPlanilha - <module> - Arquivo 04062018144248_PED151339159.htm gravado com sucesso
+2018-09-04 14:22:00,521 - log - INFO - GerarPlanilha - <module> - Arquivo 04062018160139_PED151324458.htm gravado com sucesso
+2018-09-04 14:22:01,203 - log - INFO - GerarPlanilha - <module> - Arquivo 04082018190932_PED153656527.htm gravado com sucesso
+2018-09-04 14:22:01,914 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018131821_PED151354244.htm gravado com sucesso
+2018-09-04 14:22:02,598 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018131853_PED151348773.htm gravado com sucesso
+2018-09-04 14:22:03,775 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018133215_PED151348458.htm gravado com sucesso
+2018-09-04 14:22:05,215 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018135006_PED151367351.htm gravado com sucesso
+2018-09-04 14:22:06,241 - log - INFO - GerarPlanilha - <module> - Arquivo 05062018161109_PED151340448.htm gravado com sucesso
+2018-09-04 14:22:07,507 - log - INFO - GerarPlanilha - <module> - Arquivo 05072018141320_PED152467065.htm gravado com sucesso
+2018-09-04 14:22:08,587 - log - INFO - GerarPlanilha - <module> - Arquivo 05072018204548_PED152522434.htm gravado com sucesso
+2018-09-04 14:22:09,273 - log - INFO - GerarPlanilha - <module> - Arquivo 06062018104853_PED151408425.htm gravado com sucesso
+2018-09-04 14:22:10,124 - log - INFO - GerarPlanilha - <module> - Arquivo 06072018195246_PED152548992.htm gravado com sucesso
+2018-09-04 14:22:10,820 - log - INFO - GerarPlanilha - <module> - Arquivo 07062018090053_PED151423314.htm gravado com sucesso
+2018-09-04 14:22:11,548 - log - INFO - GerarPlanilha - <module> - Arquivo 07062018150438_PED151436080.htm gravado com sucesso
+2018-09-04 14:22:12,266 - log - INFO - GerarPlanilha - <module> - Arquivo 07082018140016_PED153723379.htm gravado com sucesso
+2018-09-04 14:22:12,942 - log - INFO - GerarPlanilha - <module> - Arquivo 08062018115758_PED151541905.htm gravado com sucesso
+2018-09-04 14:22:13,982 - log - INFO - GerarPlanilha - <module> - Arquivo 08062018125244_PED151498331.htm gravado com sucesso
+2018-09-04 14:22:14,728 - log - INFO - GerarPlanilha - <module> - Arquivo 08062018172417_PED151490903.htm gravado com sucesso
+2018-09-04 14:22:15,399 - log - INFO - GerarPlanilha - <module> - Arquivo 08082018160223_PED153790447.htm gravado com sucesso
+2018-09-04 14:22:16,103 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018095659_PED152519513.htm gravado com sucesso
+2018-09-04 14:22:16,783 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018144324_PED152598039.htm gravado com sucesso
+2018-09-04 14:22:17,465 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018164424_PED152588398.htm gravado com sucesso
+2018-09-04 14:22:18,165 - log - INFO - GerarPlanilha - <module> - Arquivo 09072018193107_PED152603774.htm gravado com sucesso
+2018-09-04 14:22:18,880 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018142408_PED151559539.htm gravado com sucesso
+2018-09-04 14:22:19,526 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018180354_PED151532692.htm gravado com sucesso
+2018-09-04 14:22:20,138 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018190549_PED151628738.htm gravado com sucesso
+2018-09-04 14:22:20,815 - log - INFO - GerarPlanilha - <module> - Arquivo 11062018190910_PED151594053.htm gravado com sucesso
+2018-09-04 14:22:21,456 - log - INFO - GerarPlanilha - <module> - Arquivo 11072018195052_PED152721228.htm gravado com sucesso
+2018-09-04 14:22:22,147 - log - INFO - GerarPlanilha - <module> - Arquivo 12062018152207_PED151658528.htm gravado com sucesso
+2018-09-04 14:22:22,839 - log - INFO - GerarPlanilha - <module> - Arquivo 13062018092012_PED151579124.htm gravado com sucesso
+2018-09-04 14:22:23,678 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018105647_PED151752023.htm gravado com sucesso
+2018-09-04 14:22:24,354 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018112457_PED151755395.htm gravado com sucesso
+2018-09-04 14:22:25,032 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018112822_PED151755260.htm gravado com sucesso
+2018-09-04 14:22:25,677 - log - INFO - GerarPlanilha - <module> - Arquivo 14062018212123_PED151773313.htm gravado com sucesso
+2018-09-04 14:22:26,331 - log - INFO - GerarPlanilha - <module> - Arquivo 14082018123513_PED151730722.htm gravado com sucesso
+2018-09-04 14:22:26,982 - log - INFO - GerarPlanilha - <module> - Arquivo 14082018150650_PED154018644.htm gravado com sucesso
+2018-09-04 14:22:27,771 - log - INFO - GerarPlanilha - <module> - Arquivo 15062018112110_PED151766005.htm gravado com sucesso
+2018-09-04 14:22:28,648 - log - INFO - GerarPlanilha - <module> - Arquivo 15062018143748_PED151760065.htm gravado com sucesso
+2018-09-04 14:22:29,293 - log - INFO - GerarPlanilha - <module> - Arquivo 15082018115648_PED152561891.htm gravado com sucesso
+2018-09-04 14:22:29,959 - log - INFO - GerarPlanilha - <module> - Arquivo 16072018103444_PED152794149.htm gravado com sucesso
+2018-09-04 14:22:30,751 - log - INFO - GerarPlanilha - <module> - Arquivo 16072018203235_PED152880344.htm gravado com sucesso
+2018-09-04 14:22:31,484 - log - INFO - GerarPlanilha - <module> - Arquivo 16082018192039_PED154105132.htm gravado com sucesso
+2018-09-04 14:22:32,188 - log - INFO - GerarPlanilha - <module> - Arquivo 17072018103456_PED152914997.htm gravado com sucesso
+2018-09-04 14:22:32,843 - log - INFO - GerarPlanilha - <module> - Arquivo 17072018211426_PED152934986.htm gravado com sucesso
+2018-09-04 14:22:33,530 - log - INFO - GerarPlanilha - <module> - Arquivo 17082018133555_PED154133862.htm gravado com sucesso
+2018-09-04 14:22:34,288 - log - INFO - GerarPlanilha - <module> - Arquivo 18062018194548_PED151854267.htm gravado com sucesso
+2018-09-04 14:22:35,011 - log - INFO - GerarPlanilha - <module> - Arquivo 18062018201457_PED151870357.htm gravado com sucesso
+2018-09-04 14:22:35,814 - log - INFO - GerarPlanilha - <module> - Arquivo 18072018092517_PED152858708.htm gravado com sucesso
+2018-09-04 14:22:36,485 - log - INFO - GerarPlanilha - <module> - Arquivo 18072018101926_PED152859816.htm gravado com sucesso
+2018-09-04 14:22:37,232 - log - INFO - GerarPlanilha - <module> - Arquivo 18072018145241_PED152944445.htm gravado com sucesso
+2018-09-04 14:22:37,866 - log - INFO - GerarPlanilha - <module> - Arquivo 19062018162642_PED151881079.htm gravado com sucesso
+2018-09-04 14:22:38,610 - log - INFO - GerarPlanilha - <module> - Arquivo 20062018090409_PED151871774.htm gravado com sucesso
+2018-09-04 14:22:39,398 - log - INFO - GerarPlanilha - <module> - Arquivo 20072018101646_PED153061155.htm gravado com sucesso
+2018-09-04 14:22:40,075 - log - INFO - GerarPlanilha - <module> - Arquivo 20072018113803_PED153051700.htm gravado com sucesso
+2018-09-04 14:22:40,764 - log - INFO - GerarPlanilha - <module> - Arquivo 20072018120959_PED153032147.htm gravado com sucesso
+2018-09-04 14:22:41,466 - log - INFO - GerarPlanilha - <module> - Arquivo 23062018122224_PED152082861.htm gravado com sucesso
+2018-09-04 14:22:42,122 - log - INFO - GerarPlanilha - <module> - Arquivo 23082018115107_PED153549225.htm gravado com sucesso
+2018-09-04 14:22:42,811 - log - INFO - GerarPlanilha - <module> - Arquivo 23082018141915_PED153131143.htm gravado com sucesso
+2018-09-04 14:22:43,540 - log - INFO - GerarPlanilha - <module> - Arquivo 24062018081821_PED152086283.htm gravado com sucesso
+2018-09-04 14:22:44,419 - log - INFO - GerarPlanilha - <module> - Arquivo 24082018162002_PED154430562.htm gravado com sucesso
+2018-09-04 14:22:45,156 - log - INFO - GerarPlanilha - <module> - Arquivo 25062018120621_PED152065261.htm gravado com sucesso
+2018-09-04 14:22:45,807 - log - INFO - GerarPlanilha - <module> - Arquivo 25072018111723_PED153217618.htm gravado com sucesso
+2018-09-04 14:22:46,419 - log - INFO - GerarPlanilha - <module> - Arquivo 25072018220257_PED153258742.htm gravado com sucesso
+2018-09-04 14:22:47,079 - log - INFO - GerarPlanilha - <module> - Arquivo 26062018121235_PED152167593.htm gravado com sucesso
+2018-09-04 14:22:47,972 - log - INFO - GerarPlanilha - <module> - Arquivo 27062018122250_PED152190125.htm gravado com sucesso
+2018-09-04 14:22:48,724 - log - INFO - GerarPlanilha - <module> - Arquivo 27082018063516_PED153978940.htm gravado com sucesso
+2018-09-04 14:22:49,370 - log - INFO - GerarPlanilha - <module> - Arquivo 27082018145019_PED154481466.htm gravado com sucesso
+2018-09-04 14:22:50,044 - log - INFO - GerarPlanilha - <module> - Arquivo 27082018192011_PED154515188.htm gravado com sucesso
+2018-09-04 14:22:50,770 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018093811_PED151856872.htm gravado com sucesso
+2018-09-04 14:22:51,464 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018174645_PED152220184.htm gravado com sucesso
+2018-09-04 14:22:52,144 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018205526_PED152282146.htm gravado com sucesso
+2018-09-04 14:22:53,036 - log - INFO - GerarPlanilha - <module> - Arquivo 28062018205530_PED152282146.htm gravado com sucesso
+2018-09-04 14:22:53,698 - log - INFO - GerarPlanilha - <module> - Arquivo 29062018092452_PED152292680.htm gravado com sucesso
+2018-09-04 14:22:54,372 - log - INFO - GerarPlanilha - <module> - Arquivo 29062018110613_PED152219299.htm gravado com sucesso
+2018-09-04 14:22:55,105 - log - INFO - GerarPlanilha - <module> - Arquivo 29062018154039_PED152266130.htm gravado com sucesso
+2018-09-04 14:22:55,807 - log - INFO - GerarPlanilha - <module> - Arquivo 30082018144947_PED153549839.htm gravado com sucesso
+2018-09-04 14:22:56,485 - log - INFO - GerarPlanilha - <module> - Arquivo 31082018172623_PED154680416.htm gravado com sucesso
+2018-09-06 12:05:07,947 - log - INFO - GerarPlanilha - <module> - Arquivo 04092018155653_PED154801487.htm gravado com sucesso
+2018-09-06 12:05:08,677 - log - INFO - GerarPlanilha - <module> - Arquivo 05092018063121_PED154855599.htm gravado com sucesso
+2018-09-06 12:05:09,399 - log - INFO - GerarPlanilha - <module> - Arquivo 06092018113710_PED153789019.htm gravado com sucesso
+2018-09-06 14:51:38,811 - log - INFO - GerarPlanilha - <module> - Arquivo 06092018134921_PED154924135.htm gravado com sucesso
+
+
+2018-09-10 08:29:01,024 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-10 08:29:01,125 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-10 08:29:03,240 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-10 10:53:44,880 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-10 10:53:50,620 - log - INFO - LerArquivosXLS - <module> - Arquivo 07092018150917_GRUPO_107.xls gravado com sucesso
+2018-09-10 10:53:53,649 - log - INFO - LerArquivosXLS - <module> - Arquivo 07092018150933_GRUPO_435.xls gravado com sucesso
+2018-09-10 10:53:53,658 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-10 10:53:54,156 - log - INFO - LerArquivosXLS - <module> - Arquivo 07092018151037_GRUPO_700.xls gravado com sucesso
+2018-09-10 10:53:54,696 - log - INFO - LerArquivosXLS - <module> - Arquivo 10092018081541_GRUPO_700.xls gravado com sucesso
+2018-09-10 13:00:05,987 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-10 13:00:06,024 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-10 13:00:09,351 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-11 08:19:28,970 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-11 08:19:29,055 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-11 08:19:30,608 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-11 08:19:31,561 - log - INFO - GerarPlanilha - <module> - Arquivo 10092018130956_PED154915595.htm gravado com sucesso
+2018-09-11 13:00:03,212 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-11 13:00:03,241 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-11 13:00:04,128 - log - INFO - LerArquivosXLS - <module> - Arquivo 11092018091441_GRUPO_700.xls gravado com sucesso
+2018-09-11 13:00:06,181 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-11 13:00:06,912 - log - INFO - GerarPlanilha - <module> - Arquivo 10092018143437_PED154954230.htm gravado com sucesso
+2018-09-12 08:25:21,297 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 08:26:55,446 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 08:27:05,999 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-12 08:27:06,040 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-12 08:27:07,392 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 11:17:10,159 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-12 11:17:10,160 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-12 11:17:10,941 - log - INFO - LerArquivosXLS - <module> - Arquivo 12092018083218_GRUPO_700.xls gravado com sucesso
+2018-09-12 11:17:10,942 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 12092018083218_GRUPO_700.xls
+2018-09-12 13:02:25,519 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-12 13:02:25,602 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-12 13:02:29,078 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-12 13:02:31,354 - log - INFO - GerarPlanilha - <module> - Arquivo 11092018183559_PED155075072.htm gravado com sucesso
+2018-09-12 13:02:32,353 - log - INFO - GerarPlanilha - <module> - Arquivo 11092018191943_PED155044692.htm gravado com sucesso
+2018-09-13 08:29:56,350 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-13 08:29:56,419 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-13 08:29:57,437 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-13 13:00:35,190 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-13 13:00:35,250 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-13 13:00:36,208 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-14 08:12:38,391 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-14 08:12:38,505 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-14 08:12:41,633 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:25:36,943 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:29:09,644 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:30:19,980 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:30:55,148 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 08:39:39,927 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-17 08:39:39,981 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-17 08:39:41,400 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
