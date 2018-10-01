@@ -9,15 +9,17 @@ import mimetypes
 import os
 import smtplib
 from log import logger
-
 from email import encoders
 from email.mime.audio import MIMEAudio
 from email.mime.base import MIMEBase
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from O365 import Inbox, Message, Attachment
+import config as cfg
+from string import Template
 
-def adiciona_anexo(msgX, filename): #Envia e-mail com anexo
+def adiciona_anexo(msgX, filename, strTitulo): #Envia e-mail com anexo
     
     de = 'riscocase@gmail.com'
     para = ['marcos.souto@grupocase.com.br',
@@ -28,7 +30,7 @@ def adiciona_anexo(msgX, filename): #Envia e-mail com anexo
     msg = MIMEMultipart()
     msg['From'] = de
     msg['To'] = ', '.join(para)
-    msg['Subject'] = 'Gestão de Senhas Valid'
+    msg['Subject'] = strTitulo #'Gestão de Senhas Valid'
 
     # Corpo da mensagem
     msg.attach(MIMEText(msgX, 'html', 'utf-8'))
@@ -58,37 +60,54 @@ def adiciona_anexo(msgX, filename): #Envia e-mail com anexo
             mime = MIMEBase(maintype, subtype)
             mime.set_payload(f.read())
         encoders.encode_base64(mime)
-#--------------------------------------------------------------#
+# --------------------------------------------------------------#
 # --- Monta o e-mail ------------------------------------------#
     mime.add_header('Content-Disposition', 'attachment', filename=filename)
     msg.attach(mime)
     raw = msg.as_string()
-    #-- envia o e-mail e fecha o servido 
+    # -- envia o e-mail e fecha o servido
     smtp = smtplib.SMTP_SSL('smtp.gmail.com', 465)
     smtp.login('riscocase@gmail.com', 'dinamica')
     smtp.sendmail(de, para, raw)
     smtp.quit()
     logger.error("E-mail enviado com senhas de gestão para casos ")
-#----------------------------------------------------------------------# 
+# ----------------------------------------------------------------------#
 
-    
-def email_sem_anexo(msgX): # envia e-mail sem anexo
+
+def email_sem_anexo(msgX, strTitulo):  # envia e-mail sem anexo
     de = 'riscocase@gmail.com'
     para = ['marcos.souto@grupocase.com.br',
             "adriano.velloso@grupocase.com.br",
             "viviane.costa@grupocase.com.br"]
-
+# --- Cria corpo do e-mail ---------------------------#
     msg = MIMEMultipart()
     msg['From'] = de
     msg['To'] = ', '.join(para)
     msg['Subject'] = 'Gestão de Senhas Valid'
 
     # Corpo da mensagem
-    msg.attach(MIMEText(msgX, 'html', 'utf-8')) 
+    msg.attach(MIMEText(msgX, 'html', 'utf-8'))
     raw = msg.as_string()
-
+# -- envia o e-mail e fecha o servido
     smtp = smtplib.SMTP_SSL('smtp.gmail.com', 465)
     smtp.login('riscocase@gmail.com', 'dinamica')
     smtp.sendmail(de, para, raw)
     smtp.quit()
-    
+
+
+#def send_email(recipients, subject, body, isPlainText=True):
+#    try:
+#        authentication = (cfg.config['user_mail'], cfg.config['psw'])
+#        m = Message(auth=authentication)
+#        m.setRecipients(recipients)
+#        m.setSubject(subject)
+#        if isPlainText:
+#            m.setBody(body)
+#        else:
+#            with open(r"C:\Users\marcos.souto\Desktop\Senha\email_template.html", 'r',
+#                      encoding='utf-8') as file: email_template=file.read()
+#            m.setBodyHTML(Template(email_template).safe_substitute(subject=
+#                          subject, body=body))
+#        m.sendMessage()
+#    except:
+#        print('send_email says: message could not be sent.')

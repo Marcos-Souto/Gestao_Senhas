@@ -13,17 +13,18 @@ import Email_Senhas
 my_dir = str(r'\\GcRJ01T-SRV03\Privado\Gestão de Risco e Saúde\VALIDAÇÕES\CNU\Valid senhas')
 os.chdir(my_dir)
 
-ttt=datetime.datetime.now.hour
-ttt
+
 # --- cria data de refecencia para filtrar base de senhas -------------------------#
 now = datetime.datetime.now()
 try:
     with open(r'C:\Users\marcos.souto\Desktop\Senha\refData.txt', 'r') as arq:
         refData = arq.readlines()
     if now.hour < 12:
-        dtREF = datetime.datetime(refData) + datetime.timedelta(days = 1)
+        dtREF = datetime.datetime(refData) + datetime.timedelta(days=1)
         with open(r'C:\Users\marcos.souto\Desktop\Senha\refData.txt', 'w') as arq:
             arq.write(str(dtREF))
+    else:
+        dtREF = datetime.datetime(refData)
 except Exception:
     Ref = now - datetime.timedelta(days = 2)
     dtREF = Ref.date()
@@ -34,6 +35,8 @@ except Exception:
 # ---  Abre as bases e carrega para do DataFrame ------------------------------------
 df = pd.read_excel('./Senhas_Valid.xlsm', sheet_name = "Geral")
 dfCluster = pd.read_excel('./Resumo_Cluster_Valid.xlsx', sheet_name = "Classificados")
+
+df['DT_OCORRENCIA'] = pd.to_datetime(df['DT_OCORRENCIA'])
 
 # --- Filtra os DataFrame --------------------------------------------------------------
 dfFitrado = df.loc[lambda df: df.DT_OCORRENCIA > dtREF, :]
@@ -71,3 +74,10 @@ else:
     msg = "<p>E-mail enviado pela gest&atilde;o de senhas Grupo Case.</p><p> No anexo est&atilde;o as senhas do ultimo dois dias dos benefici&aacute;rios flegados para alerta.</p>"
 
     Email_Senhas.adiciona_anexo(msg, './Anexo_Senha.xls')
+
+
+    body = 'Nosso programa acabou de detectar solicitação de homecare. <br><br> Informações abaixo: <br>'
+    Email_Senhas.send_email(recipients="marcos.souto@grupocase.com.br",
+                            subject="Gestão de Senhas",
+                            body=body + './Anexo_Senha.xls',
+                            isPlainText=False)

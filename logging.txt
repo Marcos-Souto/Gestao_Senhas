@@ -161,3 +161,184 @@
 2018-09-17 08:39:39,927 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
 2018-09-17 08:39:39,981 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
 2018-09-17 08:39:41,400 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 13:02:31,797 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 13:02:32,751 - log - INFO - GerarPlanilha - <module> - Arquivo 14092018122219_PED154152329.htm gravado com sucesso
+2018-09-17 13:04:31,682 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-17 13:07:52,124 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-17 13:08:10,338 - log - INFO - LerArquivosXLS - <module> - Arquivo 14092018092959_GRUPO_107.xls gravado com sucesso
+2018-09-17 13:08:19,190 - log - INFO - LerArquivosXLS - <module> - Arquivo 14092018093002_GRUPO_435.xls gravado com sucesso
+2018-09-17 13:08:19,208 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-17 13:08:19,705 - log - INFO - LerArquivosXLS - <module> - Arquivo 13092018094840_GRUPO_700.xls gravado com sucesso
+2018-09-17 13:08:19,705 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 13092018094840_GRUPO_700.xls
+2018-09-17 13:08:20,371 - log - INFO - LerArquivosXLS - <module> - Arquivo 14092018093142_GRUPO_700.xls gravado com sucesso
+2018-09-17 13:08:20,372 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 14092018093142_GRUPO_700.xls
+2018-09-17 13:08:21,215 - log - INFO - LerArquivosXLS - <module> - Arquivo 17092018083644_GRUPO_700.xls gravado com sucesso
+2018-09-17 13:08:21,215 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 17092018083644_GRUPO_700.xls
+2018-09-17 13:08:22,499 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 07:13:44,297 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-18 07:13:44,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-18 07:13:45,595 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 13:00:49,606 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-18 13:00:49,686 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-18 13:00:51,026 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 17:56:58,430 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-18 17:58:11,273 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-19 08:45:06,701 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-19 08:45:06,780 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-19 08:45:08,201 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-19 13:01:10,943 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-19 13:01:11,037 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-19 13:01:16,149 - log - INFO - LerArquivosXLS - <module> - Arquivo 18092018100052_GRUPO_700.xls gravado com sucesso
+2018-09-19 13:01:16,149 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 18092018100052_GRUPO_700.xls
+2018-09-19 13:01:16,804 - log - INFO - LerArquivosXLS - <module> - Arquivo 19092018085359_GRUPO_700.xls gravado com sucesso
+2018-09-19 13:01:16,804 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 19092018085359_GRUPO_700.xls
+2018-09-19 13:01:18,910 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-19 13:01:23,489 - log - INFO - GerarPlanilha - <module> - Arquivo 17092018154917_PED151290417.htm gravado com sucesso
+2018-09-19 13:01:24,091 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018113231_PED155125509.htm gravado com sucesso
+2018-09-19 13:01:24,971 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018113819_PED155278049.htm gravado com sucesso
+2018-09-19 13:01:25,858 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018114510_PED155270939.htm gravado com sucesso
+2018-09-19 13:01:26,475 - log - INFO - GerarPlanilha - <module> - Arquivo 18092018170334_PED155262343.htm gravado com sucesso
+2018-09-19 13:01:27,366 - log - INFO - GerarPlanilha - <module> - Arquivo 19092018031218_PED155354791.htm gravado com sucesso
+2018-09-20 08:27:25,097 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-20 08:27:25,158 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-20 08:27:25,877 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-20 13:00:38,767 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-20 13:00:38,828 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-20 13:00:39,793 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-21 11:41:39,214 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-21 11:41:39,245 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-21 11:41:40,730 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-21 13:00:42,504 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-21 13:00:42,558 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-21 13:00:43,962 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-24 08:30:59,547 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-24 08:30:59,786 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-24 08:31:00,904 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-24 13:00:41,518 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-24 13:00:41,562 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-24 13:00:42,548 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-25 08:21:34,905 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-25 08:21:35,036 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-25 08:21:36,769 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-25 16:08:09,015 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-25 16:08:09,047 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-25 16:08:10,179 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 08:26:07,260 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 08:26:07,373 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 08:26:08,648 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 09:36:38,060 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 09:36:38,091 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 09:36:38,994 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 10:52:34,909 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:52:34,925 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 10:52:35,727 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 10:53:22,900 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:53:22,916 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 10:59:10,294 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:59:10,294 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 10:59:10,310 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 10:59:10,310 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:02:26,478 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:02:26,478 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:02:26,478 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,354 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:03:40,367 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:14:38,953 - log - INFO - <ipython-input-7-a5870b0fc9cf> - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:22:08,289 - log - INFO - <ipython-input-11-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:35:41,254 - log - INFO - <ipython-input-12-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:41:20,657 - log - INFO - <ipython-input-13-136fac4e6567> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 11:52:15,000 - log - INFO - lerarquivosxls - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 11:52:27,115 - log - INFO - lerarquivosxls - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 13:00:44,724 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 13:00:44,743 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 13:00:46,871 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 13:00:49,980 - log - INFO - GerarPlanilha - <module> - Arquivo 19092018164600_PED154083549.htm gravado com sucesso
+2018-09-26 13:00:50,678 - log - INFO - GerarPlanilha - <module> - Arquivo 20092018120643_PED155400482.htm gravado com sucesso
+2018-09-26 13:00:51,417 - log - INFO - GerarPlanilha - <module> - Arquivo 20092018121054_PED153710046.htm gravado com sucesso
+2018-09-26 13:00:52,193 - log - INFO - GerarPlanilha - <module> - Arquivo 21092018191010_PED155486706.htm gravado com sucesso
+2018-09-26 13:00:53,073 - log - INFO - GerarPlanilha - <module> - Arquivo 24092018130731_PED154172741.htm gravado com sucesso
+2018-09-26 13:00:53,751 - log - INFO - GerarPlanilha - <module> - Arquivo 25092018090243_PED154402353.htm gravado com sucesso
+2018-09-26 13:00:54,388 - log - INFO - GerarPlanilha - <module> - Arquivo 25092018160219_PED155600345.htm gravado com sucesso
+2018-09-26 13:54:00,696 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 13:54:05,770 - log - INFO - LerArquivosXLS - <module> - Arquivo 21092018100350_GRUPO_107.xls gravado com sucesso
+2018-09-26 13:54:06,473 - log - INFO - LerArquivosXLS - <module> - Arquivo 21092018100352_GRUPO_435.xls gravado com sucesso
+2018-09-26 13:54:06,493 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 13:54:07,131 - log - INFO - LerArquivosXLS - <module> - Arquivo 20092018095939_GRUPO_700.xls gravado com sucesso
+2018-09-26 13:54:21,223 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 21092018100628_GRUPO_700.xls
+2018-09-26 13:54:21,241 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 24092018083507_GRUPO_700.xls
+2018-09-26 13:54:21,257 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 25092018114041_GRUPO_700.xls
+2018-09-26 13:54:21,273 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 26092018082432_GRUPO_700.xls
+2018-09-26 13:54:22,166 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 14:13:33,496 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-26 14:13:33,526 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 14:13:34,333 - log - INFO - LerArquivosXLS - <module> - Arquivo 21092018100628_GRUPO_700.xls gravado com sucesso
+2018-09-26 14:13:46,945 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 24092018083507_GRUPO_700.xls
+2018-09-26 14:13:46,948 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 25092018114041_GRUPO_700.xls
+2018-09-26 14:13:46,950 - log - ERROR - LerArquivosXLS - <module> - Erro ao gravar o arquivo 26092018082432_GRUPO_700.xls
+2018-09-26 14:13:47,835 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-26 14:28:46,706 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 14:28:47,585 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Arquivo 24092018083507_GRUPO_700.xls gravado com sucesso
+2018-09-26 14:28:48,391 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Arquivo 25092018114041_GRUPO_700.xls gravado com sucesso
+2018-09-26 14:28:49,093 - log - INFO - <ipython-input-6-25d415a263cf> - <module> - Arquivo 26092018082432_GRUPO_700.xls gravado com sucesso
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:25:09,567 - log - INFO - <ipython-input-38-d11e317012b7> - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-26 17:56:22,910 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 14:20:21,340 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 14:20:52,769 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:12:28,712 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:12:28,765 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:12:37,214 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:15:36,113 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:15:36,151 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:15:42,915 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:30:28,480 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:30:28,526 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:30:35,056 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:37:05,977 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:37:06,014 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:37:12,528 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:38:41,016 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:38:41,036 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:38:47,872 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 15:49:33,794 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 15:49:33,823 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 15:49:43,646 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 16:39:42,119 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 16:39:42,160 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 16:39:51,690 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-27 16:45:47,822 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-27 16:45:47,864 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-27 16:46:03,704 - log - ERROR - Email_Senhas - adiciona_anexo - E-mail enviado com senhas de gestão para casos 
+2018-09-27 16:46:04,631 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-28 08:25:33,789 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-28 08:25:33,910 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-28 08:25:55,359 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-09-28 13:00:03,073 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-09-28 13:00:03,386 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-09-28 13:00:19,507 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
+2018-10-01 08:32:54,508 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Energisa para serem gravado
+2018-10-01 08:32:54,624 - log - INFO - LerArquivosXLS - <module> - Não existe arquivos da Valid para serem gravados
+2018-10-01 08:33:12,765 - log - INFO - GerarPlanilha - <module> - Não existe arquivos da InimedRio para serem gravados
