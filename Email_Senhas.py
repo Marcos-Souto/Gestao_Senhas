@@ -15,17 +15,15 @@ from email.mime.base import MIMEBase
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from O365 import Inbox, Message, Attachment
-import config as cfg
-from string import Template
 
-def adiciona_anexo(msgX, filename, strTitulo): #Envia e-mail com anexo
-    
+
+def adiciona_anexo(msgX, filename, strTitulo): # Envia e-mail com anexo
+
     de = 'riscocase@gmail.com'
     para = ['marcos.souto@grupocase.com.br',
             "adriano.velloso@grupocase.com.br",
             "viviane.costa@grupocase.com.br"]
-    
+
 # --- Cria corpo do e-mail ---------------------------#
     msg = MIMEMultipart()
     msg['From'] = de
@@ -83,7 +81,7 @@ def email_sem_anexo(msgX, strTitulo):  # envia e-mail sem anexo
     msg = MIMEMultipart()
     msg['From'] = de
     msg['To'] = ', '.join(para)
-    msg['Subject'] = 'Gestão de Senhas Valid'
+    msg['Subject'] = strTitulo
 
     # Corpo da mensagem
     msg.attach(MIMEText(msgX, 'html', 'utf-8'))
@@ -94,20 +92,3 @@ def email_sem_anexo(msgX, strTitulo):  # envia e-mail sem anexo
     smtp.sendmail(de, para, raw)
     smtp.quit()
 
-
-#def send_email(recipients, subject, body, isPlainText=True):
-#    try:
-#        authentication = (cfg.config['user_mail'], cfg.config['psw'])
-#        m = Message(auth=authentication)
-#        m.setRecipients(recipients)
-#        m.setSubject(subject)
-#        if isPlainText:
-#            m.setBody(body)
-#        else:
-#            with open(r"C:\Users\marcos.souto\Desktop\Senha\email_template.html", 'r',
-#                      encoding='utf-8') as file: email_template=file.read()
-#            m.setBodyHTML(Template(email_template).safe_substitute(subject=
-#                          subject, body=body))
-#        m.sendMessage()
-#    except:
-#        print('send_email says: message could not be sent.')

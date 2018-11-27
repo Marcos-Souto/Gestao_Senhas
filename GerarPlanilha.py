@@ -13,7 +13,7 @@ my_dir = str(r'\\GcRJ01T-SRV03\Privado\Gestão de Risco e Saúde\VALIDAÇÕES\Un
 os.chdir(my_dir)
 
 # -- Abre o arquivo com todo o historico para ser completado
-frame = pd.read_csv('ArquivosRIP.csv', sep=',', encoding='utf8')
+frame = pd.read_csv('ArquivosRIP.csv', sep=';', encoding='utf8')
 
 # -- Verifica se o diretorio esta vazio
 tx = os.path.exists("*.htm")
@@ -47,4 +47,4 @@ for files in glob.glob('*.htm'):
         logger.error("Erro ao gravar o arquivo " + files)
 
 # Salva o arquivo atualizado
-frame.to_csv('./ArquivosRIP.csv', sep=',', index=False)
+frame.to_csv('./ArquivosRIP.csv', sep=';', index=False)
